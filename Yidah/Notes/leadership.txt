@@ -1,0 +1,5 @@
+decision Node (sq)
+event Node (outcomes) °
+terminal branch
+
+Confident relationship with the unknown = "trust"
